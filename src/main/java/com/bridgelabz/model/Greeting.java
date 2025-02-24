@@ -2,10 +2,7 @@ package com.bridgelabz.model;
 
 
 public class Greeting {
-    //UC2
     private String message;
-
-    public Greeting() {}  // No-args constructor for JSON deserialization
 
     public Greeting(String message) {
         this.message = message;
@@ -18,4 +15,5 @@ public class Greeting {
     public void setMessage(String message) {
         this.message = message;
     }
+
 }
