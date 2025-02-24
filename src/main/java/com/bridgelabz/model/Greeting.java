@@ -1,4 +1,8 @@
+
 package com.bridgelabz.model;
+
+
+
 import jakarta.persistence.*;
 
 @Entity
