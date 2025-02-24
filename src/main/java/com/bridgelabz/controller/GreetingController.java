@@ -1,4 +1,3 @@
-
 package com.bridgelabz.controller;
 
 import com.bridgelabz.model.Greeting;
