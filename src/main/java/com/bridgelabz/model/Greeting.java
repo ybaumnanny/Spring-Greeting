@@ -6,7 +6,6 @@ package com.bridgelabz.model;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name = "GREETING")
 public class Greeting {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
